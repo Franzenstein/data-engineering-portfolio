@@ -24,4 +24,5 @@ Next up: dbt, Microsoft Fabric, and building pipelines end-to-end.
 ## Contact
 
 Open to data engineering / analytics engineering roles. Remote or Germany-based.
+
 [LinkedIn](https://www.linkedin.com/in/franziska-schmittinger/)
