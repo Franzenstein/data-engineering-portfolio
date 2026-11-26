@@ -1,5 +1,5 @@
 -- SQLBolt Lesson 2: Queries with constraints (Pt. 1)
--- Completed: 2026-11-..
+-- Completed: 2026-11-26
 
 -- Selects all columns from the movies table
 SELECT * 
