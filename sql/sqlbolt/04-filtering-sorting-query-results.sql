@@ -1,4 +1,4 @@
--- SQLBolt Lesson Lesson 4: Filtering and sorting Query results
+-- SQLBolt Lesson 4: Filtering and sorting Query results
 -- Completed: 2026-11-26
 
 -- Selects all columns from the movies table
